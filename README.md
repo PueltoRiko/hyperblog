@@ -15,6 +15,6 @@ Con interacción de colegasUn blog increíble para el curso de Git y Github de P
 - Creado por el increíble Platzi Team
 - Incluye ejemplos en Windows, Linux y Mac
 - Disponible para todas las edades
-- Capacitaciones las 24 hrs
+- Capacitaciones las 24 hrs los 365 días al año
 
 Y como un amable recordatorio:** Este readme.md es un chiste**. Diseñado para el ejemplo. Si llegas acá NO TE LO TOMES EN SERIO y mejor ve a [**ver el curso**](http://https://platzi.com/cursos/git-github/ "ver el curso").
